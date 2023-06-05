@@ -1,0 +1,34 @@
+
+*{
+
+
+}
+
+
+body{
+    background-image: url("../Img/Fondo.jpeg");
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    text-align: center;
+    color:cadetblue;
+}
+
+span{
+    color:blueviolet;
+}
+
+.Barra{
+
+display:flex;
+position: relative;
+align-items: flex-start;
+flex-direction:column-reverse ;
+
+background-color: aquamarine;
+
+
+
+}
